@@ -1,7 +1,7 @@
 #!/bin/sh
 UUID="14cbaf34-b555-4169-aed1-e9b7ff19b977"
-CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page286/plot-listing.zip"
-export PORT=${PORT-8080}
+CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page237/photography.zip"
+export PORT=${PORT-8000}
 export PATH_vless=${PATH_vless-/$UUID-vless}
 export PATH_trojan=${PATH_trojan-/$UUID-trojan}
 export PATH_vmess=${PATH_vmess-/$UUID-vmess}
